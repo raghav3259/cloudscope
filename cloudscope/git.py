@@ -4,7 +4,7 @@
 import requests
 from requests.auth import HTTPBasicAuth
 import json
-from cloudscope.githubMapping import githubMapping
+from githubMapping import githubMapping
 from elasticsearch import Elasticsearch
 
 
